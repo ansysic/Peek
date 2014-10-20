@@ -1,0 +1,25 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "ansysic@live.com",
+    "longName": "Pebble Peek",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/bt.png",
+                "name": "BT_ICON",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "Peek",
+    "uuid": "257414be-a5dc-43ac-be41-41a99a7f267e",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
